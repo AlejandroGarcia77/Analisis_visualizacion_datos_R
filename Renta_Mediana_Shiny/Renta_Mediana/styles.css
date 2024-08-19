@@ -1,0 +1,39 @@
+.btn-CCAA-class {
+  margin: 5px;
+  border-radius: 10px !important;
+  background-color: #FABD00; /* Color Gualda de la bandera española */
+  border-color: black;
+  color: black;
+}
+
+.btn-CCAA-class.active {
+  background-color: #AA3225; /* Color Rojo de la bandera española */
+  border-color: black;
+  color: white; /* Added semicolon */
+}
+
+.btn-CCAA-class:hover {
+  background-color: #AA3225; /* Color Rojo de la bandera española */
+  border-color: black;
+  color: white;
+}
+
+.btn-UE-class {
+  margin: 5px;
+  border-radius: 10px !important;
+  background-color: #FFCC00; /* Color Pantone Yellow de la UE */
+  border-color: black;
+  color: black;
+}
+
+.btn-UE-class.active {
+  background-color: #004494; /* Color Pantone Blue de la UE */
+  border-color: black;
+  color: white;
+}
+
+.btn-UE-class:hover {
+  background-color: #004494; /* Color Pantone Blue de la UE */
+  border-color: black;
+  color: white;
+}
